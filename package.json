@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer.git"
   },
   "scripts": {
-    "postinstall": "pbiviz update 1.11.0",
+    "postinstall": "pbiviz update 1.12.0",
     "pbiviz": "pbiviz",
     "start": "pbiviz start",
     "package": "pbiviz package",
@@ -38,7 +38,7 @@
     "karma-typescript-preprocessor": "0.3.1",
     "lodash": "4.16.2",
     "powerbi-models": "^1.0.2",
-    "powerbi-visuals-tools": "1.11.2",
+    "powerbi-visuals-tools": "git+https://github.com/EugeneElkin/PowerBI-visuals-tools.git#SlicerFilerSync",
     "powerbi-visuals-utils-colorutils": "0.2.1",
     "powerbi-visuals-utils-dataviewutils": "1.0.1",
     "powerbi-visuals-utils-formattingutils": "0.4.0",

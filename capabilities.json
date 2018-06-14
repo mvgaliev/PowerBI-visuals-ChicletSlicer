@@ -447,6 +447,7 @@
             }
         }
     },
+    "supportsSynchronizingFilterState": true,
     "supportsHighlight": true,
     "suppressDefaultTitle": true,
     "sorting": {
